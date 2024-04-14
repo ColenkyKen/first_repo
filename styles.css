@@ -1,0 +1,31 @@
+h1 {
+	color: orangered;
+	font-size: 500%;
+}
+
+h2 {
+	color: tomato;
+	font-size: 250%;
+}
+
+p {
+	font-size: 200%;
+	color: white;
+}
+
+a:link {
+	color: orange;
+}
+
+a:visited {
+	color: orange;
+}
+
+a:hover {
+	color: orangered;
+}
+
+body {
+	background-color: #191919;
+	padding: 80px;
+}
